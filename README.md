@@ -3,4 +3,4 @@
 <h3 align="center">QA Engineer</h3>
 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: https://t.me/ivantsova_a1
+- 📫 My LinkedIn profile: [Anastasiia Ivantsova](https://www.linkedin.com/in/anastasiia-ivantsova-58a728114/)
